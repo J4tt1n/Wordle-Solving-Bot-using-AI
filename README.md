@@ -1,6 +1,6 @@
 # Wordle-Solving-Bot-using-AI
 
-<h2>About Wordle</h2>
+## About Wordle
 
 This is a popular online word puzzle game where players try to guess a hidden five-letter word. The game provides feedback on each guess, indicating which letters are correct and in the correct position (highlighted in green), which letters are correct but in the wrong position (highlighted in yellow), and which letters are incorrect. Players typically have six chances to guess the correct word. It's often played competitively to see how quickly one can guess the word with the fewest attempts.
 
